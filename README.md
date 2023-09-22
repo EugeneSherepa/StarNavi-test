@@ -56,4 +56,4 @@ To run this project, you will need:
 
 ## Credits
 
-This project was created by [Your Name].
+This project was created by Eugene Sherepa.
