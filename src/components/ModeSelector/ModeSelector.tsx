@@ -1,6 +1,6 @@
 import { FC, ChangeEvent } from 'react';
 import { gameMode } from '../../utils/types/gameMode';
-import './modeSelector.scss';
+import './ModeSelector.scss';
 
 type Props = {
   gameModes: gameMode[];
